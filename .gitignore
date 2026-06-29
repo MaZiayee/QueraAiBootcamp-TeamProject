@@ -179,3 +179,26 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Custom rules for ML/Data Science Project
+
+# Datasets and heavy data files
+*.csv
+*.xlsx
+*.xls
+*.dat
+*.json
+
+# Saved Machine Learning Models
+*.pkl
+*.h5
+*.joblib
+
+# Folders containing data
+data/
+datasets/
+raw_data/
+
+# OS generated files
+.DS_Store
+Thumbs.db
