@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+joblib
+openpyxl
+missingno
+scikit-optimize
+jdatetime
